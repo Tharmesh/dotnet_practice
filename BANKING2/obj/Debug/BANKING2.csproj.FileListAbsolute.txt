@@ -1,0 +1,8 @@
+D:\dotnet_practice\BANKING2\bin\Debug\BANKING2.exe.config
+D:\dotnet_practice\BANKING2\bin\Debug\BANKING2.exe
+D:\dotnet_practice\BANKING2\bin\Debug\BANKING2.pdb
+D:\dotnet_practice\BANKING2\obj\Debug\BANKING2.csproj.AssemblyReference.cache
+D:\dotnet_practice\BANKING2\obj\Debug\BANKING2.csproj.SuggestedBindingRedirects.cache
+D:\dotnet_practice\BANKING2\obj\Debug\BANKING2.csproj.CoreCompileInputs.cache
+D:\dotnet_practice\BANKING2\obj\Debug\BANKING2.exe
+D:\dotnet_practice\BANKING2\obj\Debug\BANKING2.pdb
